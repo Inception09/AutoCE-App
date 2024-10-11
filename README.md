@@ -15,6 +15,8 @@
 
 ## What's New in Version 1.3
 - ✨ **Updated Cookie Extraction Process**: Improved speed and efficiency.
+- 🎨 **New UI Design**: Fresh and modern look for a better user experience.
+- 🔢 **Processing Count Display**: Added to show the current progress of the extraction.
 
 ## How to Use
 1. Enter Facebook UID or email and password.
